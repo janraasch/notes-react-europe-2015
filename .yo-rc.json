@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "notes-react-europe-2015",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
