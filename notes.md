@@ -112,7 +112,11 @@ Notes:
 
 ### Live React: Hot Reloading with Time Travel
 
-- The dude: []
+- The dude: [Dan Abramov](https://twitter.com/dan_abramov)
+- The repo: [React Hot Loader](https://github.com/gaearon/react-hot-loader)
+- The video: https://www.youtube.com/watch?v=xsSnOQynTHs
+- Example: https://github.com/janraasch/react-hot-boilerplate
+
 
 
 ### State of React + QA
@@ -135,3 +139,7 @@ Notes:
 
 - Früher was web immer flux! ;)
 - Jetzt ist es mega kompliziert
+
+
+
+### Animation
