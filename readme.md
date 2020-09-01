@@ -8,7 +8,7 @@ The plain ol' markdown notes are in `notes.md`.
 
 ## GitHub Pages
 
-Go to the [GitHub Page](http://janraasch.github.io/notes-react-europe-2015/) of this repository to view the slides online.
+Go to the [GitHub Page](https://janraasch.github.io/notes-react-europe-2015/) of this repository to view the slides online.
 
 ## Development
 
